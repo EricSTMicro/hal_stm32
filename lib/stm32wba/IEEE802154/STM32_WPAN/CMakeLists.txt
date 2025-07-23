@@ -1,0 +1,2 @@
+add_subdirectory(link_layer)
+add_subdirectory_ifdef(CONFIG_ZIGBEE_STM32WBA zigbee)

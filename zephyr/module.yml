@@ -53,3 +53,10 @@ blobs:
     license-path: zephyr/blobs/stm32wb0/lib/license.md
     url: https://github.com/STMicroelectronics/STM32CubeWB0/raw/v1.0.0/Middlewares/ST/STM32_BLE/stack/lib/stm32wb0x_ble_stack_controller_only.a
     description: "Binary Stack library for the STM32WB0 Bluetooth subsystem"
+  - path: stm32wba/lib/wba_mac_lib.a
+    sha256: 4b017f04007b11c43d6da8d0eab787aec3a339db8145985462428a5f773ed96d
+    type: lib
+    version: '1.6.0'
+    license-path: zephyr/blobs/stm32wba/lib/license.md
+    url: https://github.com/STMicroelectronics/STM32CubeWBA/tree/v1.6.0/Middlewares/ST/STM32_WPAN/mac_802_15_4/lib/wba_mac_lib.a
+    description: "Binary Stack library for the 802.15.4 MAC Wrapper"
