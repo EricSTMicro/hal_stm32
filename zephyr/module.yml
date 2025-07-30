@@ -86,19 +86,19 @@ blobs:
     type: lib
     version: '1.6.0'
     license-path: zephyr/blobs/stm32wba/lib/license.md
-    url: https://github.com/stm32-hotspot/STM32WBA-Zephyr-custom-binaries/lib
+    url: https://github.com/stm32-hotspot/STM32WBA-Zephyr-custom-binaries/tree/main/lib
     description: "Binary Link Layer library for the STM32WBA6 Thread subsystem"
   - path: stm32wba/lib/WBA6_LinkLayer15_4.a
     sha256: f41e9752c0444e4a261de6ff984afdd1225d775a701d7cbd36aa0f923d228358
     type: lib
     version: '1.6.0'
     license-path: zephyr/blobs/stm32wba/lib/license.md
-    url: https://github.com/stm32-hotspot/STM32WBA-Zephyr-custom-binaries/lib
+    url: https://github.com/stm32-hotspot/STM32WBA-Zephyr-custom-binaries/tree/main/lib
     description: "Binary Link Layer library for the STM32WBA6 MAC subsystem"
   - path: stm32wba/lib/WBA6_Mac15_4.a
     sha256: 61adca4da7c58a0bd24221d79fa45463d80ea53d96463b8b7413f853d004565b
     type: lib
     version: '1.6.0'
     license-path: zephyr/blobs/stm32wba/lib/license.md
-    url: https://github.com/stm32-hotspot/STM32WBA-Zephyr-custom-binaries/lib
+    url: https://github.com/stm32-hotspot/STM32WBA-Zephyr-custom-binaries/tree/main/lib
     description: "Binary Stack library for the STM32WBA6 MAC"
